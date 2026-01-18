@@ -1,4 +1,5 @@
 ## API Documentation
+
 ### Playback
 Play Sound Effect Plays a sound once. Multiple SFX can play simultaneously.
 ```typescript
